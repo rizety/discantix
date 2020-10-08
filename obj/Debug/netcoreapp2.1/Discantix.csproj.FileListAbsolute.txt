@@ -1,0 +1,10 @@
+/home/rizet/source/Pantix/src/Discantix/obj/Debug/netcoreapp2.1/Discantix.csprojAssemblyReference.cache
+/home/rizet/source/Pantix/src/Discantix/obj/Debug/netcoreapp2.1/Discantix.AssemblyInfoInputs.cache
+/home/rizet/source/Pantix/src/Discantix/obj/Debug/netcoreapp2.1/Discantix.AssemblyInfo.cs
+/home/rizet/source/Pantix/src/Discantix/bin/Debug/netcoreapp2.1/Discantix.deps.json
+/home/rizet/source/Pantix/src/Discantix/bin/Debug/netcoreapp2.1/Discantix.dll
+/home/rizet/source/Pantix/src/Discantix/bin/Debug/netcoreapp2.1/Discantix.pdb
+/home/rizet/source/Pantix/src/Discantix/bin/Debug/netcoreapp2.1/PantixApi.dll
+/home/rizet/source/Pantix/src/Discantix/obj/Debug/netcoreapp2.1/Discantix.csproj.CopyComplete
+/home/rizet/source/Pantix/src/Discantix/obj/Debug/netcoreapp2.1/Discantix.dll
+/home/rizet/source/Pantix/src/Discantix/obj/Debug/netcoreapp2.1/Discantix.pdb

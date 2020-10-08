@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp2.1</TargetFramework>
+        <Nullable>disable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="DSharpPlus" Version="3.2.3" />
+      <PackageReference Include="DSharpPlus.CommandsNext" Version="3.2.3" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="lib" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Reference Include="PantixApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <HintPath>lib\PantixApi.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+</Project>
