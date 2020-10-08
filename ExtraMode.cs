@@ -6,6 +6,6 @@ namespace Discantix
     {
         public ExtraMode(string name) : base(name) { }
         
-        public static CurrentMode model = new ExtraMode("discantix");
+        public static CurrentMode discantix = new ExtraMode("discantix");
     }
 }
